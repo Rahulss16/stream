@@ -9,7 +9,7 @@ React-App for Streaming online video as like Twitch
 
 3. rtmp server is used for setup video server for streaming video live for initial setup *Node-Media-Server* used with *OBS* media player. 
 
-### For the first setup run `npm install` in both folder(client & api) to initial setup for required modules and requires OBS media player and configure it in setting with custom player and url for that will be rmtp://localhost:8000/live and id with be pass in STREAM KEY.
+### For the first setup run `npm install` in both folder(client & api) to initial setup for required modules and requires OBS media player and configure it in setting with custom player and url for that will be rmtp://localhost:8000/live and id will be pass in STREAM KEY.
 
 ### Keys to remember:
 
