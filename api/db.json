@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "My Great Stream.",
+      "id": 1
+    },
+    {
+      "title": "Other",
+      "description": "other stream",
+      "id": 2
+    },
+    {
+      "title": "i updated This stream",
+      "description": "this was updated by me!",
+      "id": 3
+    },
+    {
+      "title": "another stream !",
+      "description": "another stream!",
+      "userId": "104162443595123617275",
+      "id": 4
+    }
+  ]
+}
