@@ -1,0 +1,2 @@
+# Ignore `GoogleAuth` File for Google Api key
+client/src/components/GoogleAuth.js
